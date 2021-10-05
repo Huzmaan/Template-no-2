@@ -6,7 +6,7 @@ const Image = () => {
     <>
       <div className="MImg-css">
         <img className="Img-css" src={beach} alt="beach" />
-        <h1 className="css">
+        <h1 className="css">  
           <b>
             4 Good Reasons
             <br />

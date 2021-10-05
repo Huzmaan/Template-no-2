@@ -49,16 +49,21 @@
 }
 
 h1:hover {
-  background-color: rgb(179, 150, 97);
-  width: 80%;
+  background-color: #ff9800 !important;
+  width: 70%;
 }
 .css {
   background-color: #ffc107;
-  width: 80%;
-  margin-bottom: 75px;
+  width: 70%;
+  margin-bottom: 100px;
   position: absolute;
-  /* margin-top: 10px;
-} */
+  /* margin-top: 10px;*/
+  padding-left: 15px;
+  height: 11%;
+  opacity: 0.7;
+  font-weight: 400;
+  padding-top: 15px;
+  line-height: 5vh;
 }
 .MImg-css {
   /* background-image: url(./Images/beach3.jpg); */
@@ -92,8 +97,8 @@ h1:hover {
 .Card-css {
   /* box-shadow: 0 4px 8px 0; */
   /* background-color: yellow; */
-  width: 46%;
-  border-top: #ff9800 5px solid;
+  width: 47%;
+  border-top: #ff9800 10px solid;
   box-sizing: inherit;
 }
 .Container-css {
